@@ -1,5 +1,6 @@
 {
   "name": "DevTools Theme - Hide Box Model Panel",
+  "short_name" : "Hide BoxModel",
   "version": "1.2",
   "devtools_page": "devtools.html",
   "manifest_version": 2,
