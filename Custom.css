@@ -9,3 +9,7 @@
 .dock-to-right .metrics {
   display: none !important; 
 }
+
+.elements .insertion-point-sidebar .vbox.flex-auto.split-view.visible::shadow div.vbox {
+  flex-basis: 0 !important;
+}
