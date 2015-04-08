@@ -4,4 +4,8 @@
 .dock-to-left .body .split-view-resizer.ew-resizer-widget,
 .dock-to-left .body .split-view-contents.split-view-sidebar.vbox.split-view-contents-second,
 .dock-to-right .body .split-view-resizer.ew-resizer-widget,
-.dock-to-right .body .split-view-contents.split-view-sidebar.vbox.split-view-contents-second  { display: none; }
+.dock-to-right .body .split-view-contents.split-view-sidebar.vbox.split-view-contents-second,
+.dock-to-left  .metrics,
+.dock-to-right .metrics {
+  display: none !important; 
+}
