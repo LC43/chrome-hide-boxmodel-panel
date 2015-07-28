@@ -14,3 +14,6 @@ Hide Box Model Panel in Chrome DevTools
 
 4. Navigate to the directory with these files
 
+VERSION: 
+
+1.3 : compatible with Version 43.0.2357.132
