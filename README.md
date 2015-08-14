@@ -26,6 +26,7 @@ chrome-hide-boxmodel-panel
 
 
 VERSION: 
+
 1.4 : compatible with Chromium 44.0.2403.155, Chrome  Version 45.0.2438.3
 
 1.3 : compatible with Version 43.0.2357.132
